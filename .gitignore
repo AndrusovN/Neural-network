@@ -1,0 +1,10 @@
+.idea/
+.vs/
+Debug/
+ImageMagick-6.8.5/
+ImageMagick-master/
+NN_ML/Debug/
+NN_ML/NN_ML.vcxproj
+NN_ML/NN_ML.vcxproj.filters
+NN_ML/NN_ML.vcxproj.user
+Data/*
